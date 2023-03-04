@@ -49,7 +49,8 @@ public class User9 {
 
     @Override
     public int hashCode() {
-        return Objects.hash(id);
+        return Objects.hash(id);//返回的id 1032 1032 1033 与原User set的值不同
+//        return id;//返回的id 1001 1002 1003 与原User set的值一样
     }
 
     @Override
