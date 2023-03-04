@@ -1,3 +1,5 @@
+package study01;
+
 public enum Week {
     MONDAY("星期一"),
     TUESDAY("星期二"),

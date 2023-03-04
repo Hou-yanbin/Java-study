@@ -1,3 +1,5 @@
+package study01;
+
 public class Student {
     private String failCount;  //不及格次数
     private String name;     //名字

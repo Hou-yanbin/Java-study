@@ -1,4 +1,4 @@
-package chapter04;
+package study01;
 
 public class Java22_Object {
     public static void main(String[] args) {

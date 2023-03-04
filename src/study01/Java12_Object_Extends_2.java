@@ -1,3 +1,5 @@
+package study01;
+
 public class Java12_Object_Extends_2 {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package study01;
+
 public class Java08_Exception {
     public static void main(String[] args) {
         String account = "admin";

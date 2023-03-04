@@ -1,3 +1,5 @@
+package study01;
+
 import javax.print.DocFlavor;
 import java.sql.SQLOutput;
 import java.util.Scanner;

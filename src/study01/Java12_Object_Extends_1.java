@@ -1,3 +1,5 @@
+package study01;
+
 public class Java12_Object_Extends_1 {
     public static void main(String[] args) {
         // TODO 面向对象 - Extends - 继承

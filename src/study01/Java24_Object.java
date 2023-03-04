@@ -1,3 +1,5 @@
+package study01;
+
 public class Java24_Object {
     public static void main(String[] args) {
         Me me = new Me();
